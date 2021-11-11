@@ -2,3 +2,21 @@ body {
     background: url(mars-pic.jpg) no-repeat rgb(83, 66, 56);
     background-size: 100%;
 }
+
+.jpg {
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+* {
+    color: white;
+}
