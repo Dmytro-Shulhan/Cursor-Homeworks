@@ -20,3 +20,8 @@ h2 {
 * {
     color: white;
 }
+
+.text {
+    padding: 25px;
+    background-color: rgba(128, 128, 128, 0.5);
+}
